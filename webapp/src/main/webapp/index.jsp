@@ -22,6 +22,11 @@
         <li>custom   = myIP/8080</li>
         <li>custom   = Jenkins-server-IP/8080</li>
     </ol>
+    <h3>Add roles and users inside /opt/tomcat/latest/conf/tomcat-users.xml</h3>
+    <h3>For Host-manager user</h3>
+    Add all IPs[Jenkins server IP, myIP] inside /opt/tomcat/latest/webapps/host-manager/META-INF/context.xml
+    <h3>For Manager user</h3>
+    Add all IPs[Jenkins server IP, myIP] inside /opt/tomcat/latest/webapps/manager/META-INF/context.xml
 </h2>
 
 <h6>

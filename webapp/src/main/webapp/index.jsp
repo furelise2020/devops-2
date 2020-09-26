@@ -28,7 +28,3 @@
     <h3>For Manager user</h3>
     Add all IPs[Jenkins server IP, myIP] inside /opt/tomcat/latest/webapps/manager/META-INF/context.xml
 </h2>
-
-<h6>
-    One last time auto CI/CD
-</h6>

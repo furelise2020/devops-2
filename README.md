@@ -1,5 +1,6 @@
-# maven-project
+# DEVOPS-project-2
 
-Simple Maven Project
+1. Jenkins
+2. Tomcat
+3. Ansible
 
-Demo of devops project-1
